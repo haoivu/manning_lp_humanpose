@@ -1,1 +1,1 @@
-# manning_lp_humanpose
+# LiveProject at Manning with Human Pose Estimation
